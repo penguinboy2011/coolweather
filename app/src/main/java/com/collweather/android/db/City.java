@@ -1,6 +1,8 @@
 package com.collweather.android.db;
 
-import DataSupport;
+//import org.litepal.an DataSupport;
+
+import org.litepal.crud.DataSupport;
 
 /**
  * Created by lizhi on 2018/2/23.
